@@ -1,5 +1,9 @@
 # Spectrum — Аудиофильский Hi-Res / DSD плеер для Windows
 
+[![Версия](https://img.shields.io/github/v/release/Aleksey-Pasechnik/Spectrum?style=for-the-badge&color=22d3ee&label=%D0%92%D0%B5%D1%80%D1%81%D0%B8%D1%8F)](https://github.com/Aleksey-Pasechnik/Spectrum/releases/latest)
+[![Скачиваний](https://img.shields.io/github/downloads/Aleksey-Pasechnik/Spectrum/total?style=for-the-badge&color=8b5cf6&label=%D0%A1%D0%BA%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9)](https://github.com/Aleksey-Pasechnik/Spectrum/releases)
+[![Звёзд](https://img.shields.io/github/stars/Aleksey-Pasechnik/Spectrum?style=for-the-badge&color=f59e0b&label=%D0%97%D0%B2%D1%91%D0%B7%D0%B4)](https://github.com/Aleksey-Pasechnik/Spectrum/stargazers)
+
 **Автор и разработчик:** Пасечник Алексей Сергеевич ([VK: vk.ru/thepasechnik](https://vk.ru/thepasechnik))  
 **Языки:** Русский • English • Қазақша • Беларуская (автоопределение языка Windows + ручной выбор)
 
