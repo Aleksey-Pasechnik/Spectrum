@@ -1,0 +1,12 @@
+# Никогда не загружать исходники, приватный генератор ключей и локальные кэши!
+Keygen_PRIVATE/
+cpp_native/
+*.cpp
+*.hpp
+*.h
+*.rc
+*.o
+*.cfg
+*.log
+covers_cache/
+playlists/
